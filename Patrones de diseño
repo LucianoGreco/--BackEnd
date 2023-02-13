@@ -1,0 +1,49 @@
+🔴 MODULO 1: Patrones de diseño
+
+✅ Clase 1: Bienvenida
+➡️ Introducción a la materia
+➡️ Pruebas unitarias con JUnit
+➡️ Introducción: Test unitarios vs. Test integración
+➡️ Beneficios y principio FIRST
+➡️ Arquitectura JUnit
+➡️ Configuración de la librería
+➡️ Anotaciones, assertions
+➡️ Testeo parametrizado
+➡️ Suite, Suite de Suites
+➡️ Ejemplo en Java
+
+✅ Clase 2: Patrón template method
+➡️ Template method
+➡️ Presentación en UML
+➡️ Ejemplo
+➡️ Implementación típica en Java
+
+✅ Clase 3: Integradora
+
+✅ Clase 4: Patrón cadena de responsabilidad
+➡️ Cadena de responsabilidad
+➡️ Presentación en UML
+➡️ Ejemplo
+➡️ Implementación típica en Java
+
+✅ Clase 5: Patrón proxy
+➡️ Patrón proxy
+➡️ Presentación en UML
+➡️ Ejemplo
+➡️ Implementación típica en Java
+
+✅ Clase 6: Integradora
+
+✅ Clase 7: Patrón flyweight 
+➡️ Patrón flyweight
+➡️ Presentación en UML
+➡️ Ejemplo
+➡️ Implementación típica en Java
+
+✅ Clase 8: Patrón facade
+➡️ Patrón Facade
+➡️ Presentación en UML.
+➡️ Ejemplo
+➡️ Implementación típica en Java
+
+✅ Clase 9: Integradora
