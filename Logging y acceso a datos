@@ -1,0 +1,67 @@
+🔴 MODULO 2: Logging y acceso a datos
+
+✅ Clase 10: Logging (trazas y debug)
+➡️ Introducción al logueo (ventajas, desventajas, evaluación framework de logueo)
+➡️ Arquitectura Log4J
+➡️ Instalación de Log4J
+➡️ Crear archivo de configuración Log4J
+➡️ Level object, logger
+➡️ Appender objects (ConsoleAppender, FileAppender, RollingFileAppender, DailyRollingFileAppender, AsyncAppender)
+➡️ Ejemplo en Java
+
+✅ Clase 11: Acceso a base de datos
+➡️ JDBC. Statement. Creación de conexiones. Resultset. Inserciones, borrado, actualizaciones y consultas. Manejo de transacciones. 
+➡️ Puesta a punto de H2 Database
+➡️ Arquitectura JDBC
+➡️ Conexión a una base de datos 
+➡️ Statement
+➡️ Insert y delete
+
+✅ Clase 12: Integradora
+
+✅ Clase 13: Consultas y transacciones sobre base de datos
+➡️ Consultar datos (execute, ResultSet)
+➡️ Modificar datos (executeUpdate)
+➡️ Utilización de PreparedStatements
+➡️ Transacciones (commit, auto commit, Rollback)
+➡️ Invocar StoredProcedures
+➡️ Loguear en base de datos con JDBCAppender
+
+✅ Clase 14: Patrón DAO (Data Access Object)
+Armado de capas para el acceso a datos con JDBC. Importancia de contar con una capa de acceso a los datos. Utilización del patrón template method en el patrón DAO. Reutilización. Introducción al concepto de ORM.
+➡️ DAO
+➡️ Presentación en UML
+➡️ Implementación típica en Java
+      *Clases de acceso a datos
+      *Utilización de factory y template method
+      *Clase de servicio
+      *Generación de tipos de excepciones por capas
+➡️ Testing unitario de cada capa
+➡️ Introducción al concepto de ORM
+
+✅ Clase 15: Integradora
+
+✅ Clase 16: Taller de coding y repaso
+
+✅ Clase 17: Evaluación 1
+
+✅ Clase 18: Maven
+Introducción a la gestión de proyectos en Java, su mecanismo y repositorio, gestión de dependencias, información de proyecto y plugins.
+➡️ Introducción a Maven, ¿qué es?
+➡️ Instalación de Maven
+➡️ Modelo conceptual de un proyecto en Maven
+➡️ POM (Project Object Model)
+➡️ Super POM
+➡️ Dependencias.
+➡️ Ciclo de vida.
+
+✅ Clase 19: Serialización de objetos y E/S archivos
+Procesamiento de los flujos (streams), y utilizarlos adecuadamente. Serializar y deserializar objetos. Distinguir los lectores y escritores de los flujos, y seleccionar apropiadamente entre ellos. Manejo de E/S de archivos.
+➡️ Jerarquía de clases de flujo (inputStream, outputStream)
+➡️ Java NIO, Manejo de archivos, carpetas y recursos.
+➡️ Creación, escritura, lectura, eliminación, copiado y movimiento de ficheros.
+➡️ Serialización de objetos
+➡️ Manejo de carpetas
+
+
+✅ Clase 20: Integradora
