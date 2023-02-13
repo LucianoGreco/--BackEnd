@@ -1,0 +1,145 @@
+🔴 MODULO 3: Framework para el desarrollo ágil de aplicaciones
+
+✅ Clase 21: Introducción a Spring Boot
+Introducción y primeros pasos con el framework para el desarrollo de aplicaciones Java.
+
+➡️ Arquitectura cliente-servidor
+➡️ Protocolo HTTP
+➡️ Framework
+ * Definición
+ * Framework vs. Librería
+ * Introducción a Spring Framework
+ * Spring vs. Spring Boot
+➡️ Crear un proyecto en Spring Boot
+ * Initializr
+ * Estructura del proyecto
+ * Aplication.java
+
+✅ Clase 22: Patrón MVC
+➡️ Modelo Vista Controlador
+➡️ Objetivo MVC
+➡️ Spring MVC
+➡️ Spring Boot
+➡️ Vista
+
+✅ Clase 23: Integradora
+
+✅ Clase 24: Taller de coding sobre el trabajo integrador
+Construcción por parte de los alumnos del resto de las entidades con la capa de acceso a datos (DAO, Service) con testeos unitarios.
+
+✅ Clase 25: API REST
+➡️ ¿Qué es una API?
+➡️ Introducción, enfoque y diferencias con un monolito
+➡️ REST vs. SOAP
+➡️ API REST / RESTFul
+➡️ JSON
+➡️ Instalación Postman
+
+✅ Clase 26: Integradora
+
+✅ Clase 27: API REST II
+➡️ Anotaciones en el controller.
+➡️ DTO.
+➡️ ResponseEntity
+➡️ Consumir API
+
+✅ Clase 28: Consumir APIs
+➡️ Invocando una API desde la vista 
+➡️ Invocando una API desde el backend
+
+✅ Clase 29: Integradora
+
+✅ Clase 30: Inyección de dependencias
+➡️ Inyección de dependencias
+➡️ IoC Inversion of control
+➡️ Formas de Inyectar dependencias
+
+✅ Clase 31: ORM
+➡️ Arquitectura JPA
+➡️ Hibernate
+➡️ Anotaciones
+➡️ Configurar Hibernate con Spring Boot
+
+✅ Clase 32: Integradora
+
+✅ Clase 33: Spring Data - Hibernate
+➡️ Relaciones (1 a 1, 1 a muchos, muchos a muchos)
+➡️ JoinColumn
+➡️ Cascada
+➡️ Fetch Type
+
+✅ Clase 34: HQL
+➡️ Características
+➡️ Sintaxis
+➡️ Ubicación de consultas en Spring
+
+✅ Clase 35: Integradora
+
+✅ Clase 36: Taller de coding aplicando lo aprendido hasta ahora
+Repaso por parte del docente de la construcción de la capa de acceso a datos (Repository), capa de negocio (service), APIs (controller) y la capa de la vista (HTML con JavaScript) de una entidad y su mapeo con la base de datos, mostrando los cambios con respecto al DAO original.
+
+✅ Clase 37: Taller de coding sobre el trabajo integrador
+Construcción por parte de los alumnos de la capa de acceso a datos (Repository), negocio (service), APIs (controller) y vista (HTML con JavaScript) de una entidad y su mapeo con la base de datos.
+
+✅ Clase 38: Base de datos no relacionales: MongoDB
+➡️ Introducción a MongoDB
+➡️ MongoDB vs. Base de datos relacionales
+➡️ Spring Data + MongoDB
+➡️ Creación de una base MongoDB
+➡️ Acceso a MongoDB
+
+✅ Clase 39: Integradora
+
+✅ Clase 40: Sistemas distribuidos
+➡️ ¿Qué es un microservicio?
+➡️ Patrones de comunicación entre microservicios
+➡️ Monolito vs. Microservicios
+
+✅ Clase 41: Manejo de excepciones 
+➡️ ControllerAdvice
+➡️ ExceptionHandler
+➡️ Exception Handling para servicios RESTFul
+
+✅ Clase 42: Integradora
+
+✅ Clase 43: Seguridad
+➡️ Librería starter de Spring Security
+➡️ Autenticación y seguridad de URL
+➡️ Encriptar contraseña
+➡️ @PreAuthorize y @PostAuthrorize
+
+✅ Clase 44: Autenticación de APIs basada en tokens JWT
+➡️ Jason Web Token (JWT)
+➡️ Construcción de una API de Generación de Token
+
+✅ Clase 45: Integradora
+
+✅ Clase 46: Pruebas de integración
+➡️ Test de integración con Spring Boot
+➡️ Pruebas de integración para controllers con Mock
+➡️ Cobertura de código
+
+✅ Clase 47: Taller de coding sobre nuestro trabajo integrador
+Añadir seguridad al trabajo integrador mediante un formulario de login de spring security
+
+✅ Clase 48: Taller de coding y entrega
+
+✅ Clase 49: Documentación
+➡️ Swagger OpenApi
+➡️ Hateoas
+
+✅ Clase 50:  Despliegue de APIs en Docker
+➡️ Test de integración Cucumber
+➡️ Gherkin
+➡️ Maven Archetype
+➡️ Docker Compose
+
+✅ Clase 51: Integradora
+
+✅ Clase 52: Taller de coding sobre pruebas de integración
+
+✅ Clase 53: Estamos llegando al final…
+Feedback general del trabajo integrador.
+
+✅ Clase 54: ¡Llegamos al final!
+
